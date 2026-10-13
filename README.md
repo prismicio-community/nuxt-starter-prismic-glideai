@@ -2,6 +2,9 @@
 
 # Glide.ai - Dark, modern, website template
 
+> [!NOTE]
+> This is the finished code for a Prismic course. It is archived and no longer updated. To start a new Prismic project with Nuxt, see the [Nuxt guide](https://prismic.io/docs/nuxt).
+
 - [Live demo][live-demo]
 - [Play on Stackblitz][stackblitz-demo]
 - [Learn how to build this website on YouTube][course-youtube]
